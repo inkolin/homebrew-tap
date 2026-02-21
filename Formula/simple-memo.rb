@@ -3,8 +3,8 @@ class SimpleMemo < Formula
 
   desc "A simple CLI for Apple Notes & Reminders on macOS"
   homepage "https://github.com/inkolin/simple-memo"
-  url "https://files.pythonhosted.org/packages/b0/b1/b9d3f80138f04e39e7f5cdba5a6f1249191a692267852245c0f885ad66a4/simple_memo-0.1.0.tar.gz"
-  sha256 "2c3dc4e10c27c08633ddf2b7265410c4940f6073fd4602126139e8820700e647"
+  url "https://files.pythonhosted.org/packages/a0/3e/5ac55cfcff89361726b68b0d89648a7cb96d42ffd3391685ff5200b1992a/simple_memo-0.2.0.tar.gz"
+  sha256 "50b69e6df550e59fd85ceb3cb07448dd0f27ad6dea6ce80a3ba976f42e9c7b7b"
   license "MIT"
 
   depends_on "python@3.13"
